@@ -14,4 +14,3 @@ oc process -f https://raw.githubusercontent.com/pverbist/redis/master/openshift/
 
 ### Note:
 If by any chance you have 2 masters running, kill one of them and I would suggest to kill the sentinel pods as well.
-# redis
